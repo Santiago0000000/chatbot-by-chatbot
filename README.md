@@ -1,6 +1,6 @@
 # a chatbot by chatbot
-Hi there, this experiment show the potential of Deepseek R1
-This AI application is completely created by Deepseek and use a free API from openrouter
+Hi there, this experiment show the potential of Deepseek R1.
+This AI application is completely created by Deepseek and use a free API from openrouter.
 # Tutorial
 1) Get a free deepseek r1 API key on openrouter https://openrouter.ai/deepseek/deepseek-r1/api
 2) Copy the typescript code to integrate the API key in the application provided by openrouter in the same page
